@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**tianweidut/tianweidut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/tianweidut?style=social)](https://twitter.com/tianweidut)
 
-Here are some ideas to get you started:
+- ⚡ Working Experience:
+  - 🔭 Starwhale 2022.3 ~ now
+  - 🌱 Megvii 2017.9 ~ 2022.3
+  - 🌱 Douban 2013.7 ~ 2017.9
+  - 📫 Microsoft Intern 2012.8 ~ 2012.10
+  - 📫 Google Summer of Code 2012.3 ~ 2013.3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤️ Current Learning: Rust, MLOps, eBPF
+
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
