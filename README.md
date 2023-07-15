@@ -9,7 +9,7 @@
   - 📫 Microsoft Intern 2012.8 ~ 2012.10
   - 📫 Google Summer of Code 2012.3 ~ 2013.3
 
-- ❤️ Current Learning: MLOps
+- ❤️ Current Learning: MLOps and LLM
 
 ---
 <!--START_SECTION:waka-->
