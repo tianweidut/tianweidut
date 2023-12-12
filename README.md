@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tianweidut?style=social)](https://twitter.com/tianweidut)
+[![Linkedin: liutianwei](https://img.shields.io/badge/-liutianwei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liutianwei/)](https://www.linkedin.com/in/liutianwei/)
 
 - ⚡ Working Experience:
-  - 🔭 Starwhale 2022.3 ~ now
-  - 🌱 Megvii 2017.9 ~ 2022.3
-  - 🌱 Douban 2013.7 ~ 2017.9
-  - 📫 Microsoft Intern 2012.8 ~ 2012.10
-  - 📫 Google Summer of Code 2012.3 ~ 2013.3
+  - 🔭 **Starwhale** 2022.3 ~ now: [Starwhale](https://github.com/star-whale/starwhale) - MLOps/LLMOps，OpenSource(Python)
+  - 🌱 **Megvii** 2017.9 ~ 2022.3: DevOps-Private ToB Cloud(Golang), MCD-Cloud Native PaaS(Golang), Brain++-AI Productivity Platform(Golang)
+  - 🌱 **Douban** 2013.7 ~ 2017.9: DAE-Douban App Engine, PaaS(Python)
+  - 📫 **Microsoft Intern** 2012.8 ~ 2012.10: Bing Desktop(Python)
+  - 📫 **Google Summer of Code** 2012.3 ~ 2013.3: OpenMonitor(Python)
 
 - ❤️ Current Learning: MLOps and LLM
 
