@@ -46,13 +46,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-sh                       14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -68,5 +68,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2024 00:15:58 UTC
+ Last Updated on 14/02/2024 00:15:29 UTC
 <!--END_SECTION:waka-->
